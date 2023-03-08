@@ -26,10 +26,15 @@ note this software is proprietary and does require a payed license
 
 Usage:
 This pipeline requires 5 user inputs:
+
 Sample Data        : specified by --reads on command line
+
 Barcodes           : specified by --barcodes 
+
 Novoalign Index    : specified by --novoindex
+
 GTF Annotation file: specified by --gtf
+
 Genome Fasta file  : specified by --genome
 
 Outputs
